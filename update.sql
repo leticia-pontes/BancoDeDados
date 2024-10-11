@@ -1,0 +1,18 @@
+-- USE HAMBURGUERIA;
+
+UPDATE FORNECEDOR
+SET NOME = "Coca-Cola"
+WHERE ID_Fornecedor = 1;
+
+UPDATE FORNECEDOR
+SET NOME = "Seara"
+WHERE ID_Fornecedor = 2;
+
+UPDATE FORNECEDOR
+SET NOME = "JBS"
+WHERE ID_Fornecedor = 3;
+
+UPDATE FORNECEDOR
+SET NOME = "Kibom"
+WHERE ID_Fornecedor = 4;
+
